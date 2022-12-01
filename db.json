@@ -3,7 +3,7 @@
         {
           "id": 2001,
           "color": "yellow",
-          "image": "require("../assets/doudoune/whitedoudoune.png")",
+          "image": require("../assets/doudoune/whitedoudoune.png"),
           "quantity": 50
         },
         {
