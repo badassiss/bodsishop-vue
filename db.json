@@ -3,25 +3,25 @@
         {
           "id": 2001,
           "color": "yellow",
-          "image": require("../assets/doudoune/whitedoudoune.png"),
+          "image": "require("../assets/doudoune/whitedoudoune.png")",
           "quantity": 50
         },
         {
           "id": 2002,
           "color": "blue",
-          "image": require("../assets/doudoune/bluedoudoune.png"),
+          "image": "require("../assets/doudoune/bluedoudoune.png")",
           "quantity": 10
         },
         {
           "id": 2003,
           "color": "brown",
-          "image": require("../assets/doudoune/browndoudoune.png"),
+          "image": "require("../assets/doudoune/browndoudoune.png")",
           "quantity": 10
         },
         {
           "id": 2004,
           "color": "black",
-          "image": require("../assets/doudoune/blackdoudoune.png"),
+          "image": "require("../assets/doudoune/blackdoudoune.png")",
           "quantity": 10
         }
       ]
