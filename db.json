@@ -1,5 +1,4 @@
 {
- details: ["50% coton", "30% laine", "20% polyester"],
       variants: [
         {
           id: 2001,
@@ -25,13 +24,5 @@
           image: require("../assets/doudoune/blackdoudoune.png"),
           quantity: 10,
         },
-      ],
-      inventory: 100,
-      reviews: [],
-      sizes: ["S", "M", "L", "XL"],
-      selectedVariant: 0,
-      onSale: true,
-      product: "doudoune over size",
-      expedition: "8DT dans tout le monde",
-      description: "nouvelle collection",
+      ]
     }
