@@ -1,0 +1,37 @@
+{
+ details: ["50% coton", "30% laine", "20% polyester"],
+      variants: [
+        {
+          id: 2001,
+          color: "yellow",
+          image: require("../assets/doudoune/whitedoudoune.png"),
+          quantity: 50,
+        },
+        {
+          id: 2002,
+          color: "blue",
+          image: require("../assets/doudoune/bluedoudoune.png"),
+          quantity: 10,
+        },
+        {
+          id: 2003,
+          color: "brown",
+          image: require("../assets/doudoune/browndoudoune.png"),
+          quantity: 10,
+        },
+        {
+          id: 2004,
+          color: "black",
+          image: require("../assets/doudoune/blackdoudoune.png"),
+          quantity: 10,
+        },
+      ],
+      inventory: 100,
+      reviews: [],
+      sizes: ["S", "M", "L", "XL"],
+      selectedVariant: 0,
+      onSale: true,
+      product: "doudoune over size",
+      expedition: "8DT dans tout le monde",
+      description: "nouvelle collection",
+    }
