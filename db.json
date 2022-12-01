@@ -16,7 +16,7 @@
           "id": 2003,
           "color": "brown",
           "image": require("../assets/doudoune/browndoudoune.png"),
-          "quantity": "10"
+          "quantity": 10
         },
         {
           "id": 2004,
