@@ -9,7 +9,7 @@
         {
           "id": 2002,
           "color": "blue",
-          "image": "require("@/assets/doudoune/bluedoudoune.png")",
+          "image": "require('@/assets/doudoune/bluedoudoune.png')",
           "quantity": 10
         },
         {
